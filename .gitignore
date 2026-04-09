@@ -1,0 +1,10 @@
+checkpoints/
+data/raw/
+data/damage_samples.png
+venv/
+__pycache__/
+*.pyc
+*.pth
+*.zip
+*.log
+.ipynb_checkpoints/
